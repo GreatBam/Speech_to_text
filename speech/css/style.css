@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-weight: bold;
+}
+
+#navtop{
+    background-color: #4F8EC7;
+    width: 100%;
+    height: 80px;
+    border-radius: 10px;
+}
+
+.title{
+    color: aliceblue;
+    font-size: 40px;
+    padding: 15px 0;
+    margin-left: 20px;
+}
+
+#main{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.recButton{
+    width: 5%;
+    height: 2%;
+    background-color: rgb(222, 62, 62);
+    color: aliceblue;
+    font-weight: bolder;
+    border-color: rgb(222, 62, 62);
+    border-radius: 10px;
+}
+
+.speakerButton{
+    width: 5%;
+    height: 2%;
+    background-color: rgb(28, 166, 55);
+    color: aliceblue;
+    font-weight: bold;
+    border-color: rgb(28, 166, 55);
+    border-radius: 10px;
+}
+
+#play{
+    text-align: center;
+    margin-top: 5px;
+}
